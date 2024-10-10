@@ -41,7 +41,7 @@ Nous cherchons un **développeur Front-end UI/UX** talentueux pour transformer l
 
 - **Travail** : Individuel.
 - **Durée** : 2 jours.
-- **Date limite** : 11/10/2023 à 17:30.
+- **Date limite** : 11/10/2024 à 17:30.
 
 ## Modalités d'évaluation
 
